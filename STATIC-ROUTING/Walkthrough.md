@@ -1,7 +1,8 @@
 # Basic Static Route Configuration – Lab Walkthrough
 
 ## Topology Overview
-![Uploading image.png…]()
+<img width="1134" height="522" alt="image" src="https://github.com/user-attachments/assets/e9559ad1-18bd-47ac-a304-0d9a8bbd5d4a" />
+
 
 
 Three routers (R1, R2, R3) connected via serial WAN links, each with a LAN hosting one PC.
